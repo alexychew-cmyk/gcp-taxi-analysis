@@ -26,4 +26,4 @@ git clone https://github.com/<alexychew>/gcp-taxi-analysis.git
 # 3. Open the dashboard link below.
 
 ### 3. Visualization
-[Looker Studio – NYC Taxi Mini-Pipeline](https://lookerstudio.google.com/s/iPj5QJDCZDA)
+[Looker Studio – NYC Taxi Mini-Pipeline](https://lookerstudio.google.com/s/kuvlRtvRTOU)
